@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I am Aizaz 
 
-<!--
-**aizaz99/aizaz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I'm a software developer focused on building user-centric web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack:
+- 🧠 Languages: JavaScript, TypeScript.
+- ⚛️ Frontend: React, Vite, Material UI, TailwindCSS, Bootstrap.
+- 🔧 Backend: Node.js, Express, Prisma, SQL. 
+- ☁️ Tools: Github, MongoDB, Microsoft Azure Cloud.
+
+📈 Currently Working On:
+Pursuing my Masters in Computer Science at Sofia University Costa Mesa.
+
+🎵 Fun Fact: I'm also an Afro House music producer with over 500,000 streams!
+
+📫 Connect With Me:
+- https://www.linkedin.com/in/aizaz-ahmad/
+- aizazahmed476@gmail.com
+
