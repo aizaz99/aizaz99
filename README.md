@@ -12,8 +12,6 @@
 📈 Currently Working On:
 Pursuing my Masters in Computer Science at Sofia University Costa Mesa.
 
-🎵 Fun Fact: I'm also an Afro House music producer with over 500,000 streams!
-
 📫 Connect With Me:
 - https://www.linkedin.com/in/aizaz-ahmad/
 - aizazahmed476@gmail.com
